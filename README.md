@@ -20,6 +20,10 @@ A simple shopping cart application built using **React** and **Redux**.
 - **React Router DOM**
 - **Tailwind CSS** for styling
 
+- Link -- 
+shop-app-redux-omega.vercel.app
+
+
 
 
 
